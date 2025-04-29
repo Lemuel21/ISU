@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+tensorflow==2.18.0  # Use your installed TensorFlow version
+numpy==1.26.0
+librosa==0.10.2.post1
+matplotlib==3.10.0
+gunicorn==21.2.0  # Optional for production
